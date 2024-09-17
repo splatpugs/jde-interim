@@ -1,4 +1,4 @@
-# Generation SG – Interim Project (Netflix Data)
+# Interim Project (Netflix Data)
 
 This project aims to simulate an ETL process using Python & PostgreSQL to clean, analyse & visualize Netflix data from 2018 to 2021.
 
