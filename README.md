@@ -56,9 +56,11 @@ The dataset also consists of the following columns:
 4.	Missing ratings for show_id: 5542, 5795, 5814 assumed to be the same “TV-MA”.
 
 ## Overview of Findings
-The insights from this analysis suggest that Netflix should continue to invest in diverse content offerings, particularly in emerging genres and international movies. 
+The insights from this analysis suggest that Netflix should continue to invest in diverse content offerings, particularly in emerging genres and international movies:
+![Trends in Genre Popularity](https://raw.githubusercontent.com/splatpugs/jde-interim/refs/heads/main/4.%20Data%20Visualisations/Trends%20in%20Genre%20Popularity%20Over%20Years.png)
 
-Regional preferences should guide content curation and marketing efforts, ensuring that Netflix remains a leader in the global streaming market. For example, Countries like India and France are among the top consumers of international movies, reflecting a growing interest in diverse global content: 
+Regional preferences should guide content curation and marketing efforts, ensuring that Netflix remains a leader in the global streaming market. For example, Countries like India and France are among the top consumers of international movies, reflecting a growing interest in diverse global content:
+![Top Countries Watching International Movies](https://raw.githubusercontent.com/splatpugs/jde-interim/refs/heads/main/4.%20Data%20Visualisations/Top%2010%20Countries%20Watching%20International%20Movies.png)
 
 Netflix can further expand its international content offerings to cater to these markets, enhancing localization efforts to appeal to a global audience.
 
@@ -75,7 +77,7 @@ For more context on the findings/chart, refer to: [Interim Project Report](https
 ## What’s Next?
 Further research could involve analysing viewership data to better understand audience engagement with different genres, exploring the impact of global events on genre popularity, and investigating the role of Netflix Originals in shaping genre trends.
 
-Additionally, given a longer period of time frame to work with we can also include DataFrames from web scraping. A prototype web scraper for IMDB listicles was coded in Python/Jupyter Notebook. The scraper make used of the BeautifulSoup and requests packages. It will first test the website to get its status code, and then parse the website’s HTML code. 
+Additionally, given a longer period of time frame to work with we can also include DataFrames from web scraping. A prototype web scraper for IMDB listicles was coded in Python/Jupyter Notebook. The scraper uses  BeautifulSoup & requests packages. Which will test the website for it's status code, and then parse the website’s HTML code. 
 
 The scraper will then proceed to find all ‘h3’ titles (which are movie titles), append them into an empty list and then converted into a DataFrame with the columns title and count, with count representing the number of times the title has been mentioned by users across different listicles on IMDB. This is to compensate for the lack of user ratings within the Netflix dataset. 
 
