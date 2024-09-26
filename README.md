@@ -69,10 +69,21 @@ For more context on the findings/chart, refer to: [Interim Project Report](https
 ## Summary 
  The insights gained from this analysis offer several strategic directions for Netflix:
  
-* **Content Acquisition and Production**: Given the rise in popularity of certain genres, Netflix should consider investing more heavily in producing and acquiring content in these emerging areas, such as documentaries and international movies. This will help the platform stay relevant and meet the evolving tastes of its global audience. 
-* **Regional Content Strategies:** The variability in genre preferences across different countries suggests that Netflix should tailor its content offerings and marketing strategies to regional tastes. By focusing on the genres that resonate most in specific markets, Netflix can enhance viewer engagement and satisfaction. 
-* **Promoting Content Diversity:** Countries producing a diverse set of genres should be highlighted in Netflix’s global catalog, offering viewers a rich and varied content experience. This approach not only caters to diverse audience preferences but also promotes lesser-known genres and titles. 
-* **Expanding Global Reach:** With strong demand for international movies, Netflix has an opportunity to further expand its global reach by increasing the availability and visibility of international content. This could involve more localized content production and strategic partnerships in key markets. 
+- **Content Acquisition and Production:**
+  - Increase investment in producing and acquiring popular genres, especially **documentaries** and **international movies**.
+  - This strategy will help Netflix stay relevant and appeal to evolving global audience tastes.
+
+- **Regional Content Strategies:**
+  - Tailor content offerings and marketing strategies to match **regional genre preferences**.
+  - Focus on genres that resonate most in specific countries to enhance **viewer engagement and satisfaction**.
+
+- **Promoting Content Diversity:**
+  - Highlight countries with diverse genre productions in Netflix’s global catalog.
+  - This approach caters to various audience preferences and promotes **lesser-known genres and titles**.
+
+- **Expanding Global Reach:**
+  - Capitalize on the strong demand for international movies by increasing the **availability and visibility** of this content.
+  - Consider localized content production and strategic partnerships in key markets to broaden Netflix’s **global reach**. 
 
 ## What’s Next?
 Further research could involve analysing viewership data to better understand audience engagement with different genres, exploring the impact of global events on genre popularity, and investigating the role of Netflix Originals in shaping genre trends.
