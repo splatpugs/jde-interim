@@ -1,4 +1,4 @@
-# Interim Project (Netflix Data)
+# Analysis of Netflix Data (Genres)
 
 This project aims to simulate an ETL process using Python & PostgreSQL to clean, analyse & visualize Netflix data from 2018 to 2021.
 
